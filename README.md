@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# NFT Market
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## Full stack NFT Marketplace built with Polygon, Solidity, IPFS, & Next.js
 
-Try running some of the following tasks:
+NOTE: this project is not dfeployed due to costs invovled in maintaingn the newtwork and charges associated with uploading/creating NFTs
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This project lets you upload an image into the marketplace and convert it into a NFT fia INFURA and ETHEREUM Network, built using Ploygon, Solidty IPFS Nextjs and React
